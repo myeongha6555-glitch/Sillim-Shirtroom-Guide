@@ -43,5 +43,8 @@
 
 👉 **[신림셔츠룸 / 구디셔츠룸 통합 가이드 바로가기](https://sillim-shirt.isweb.co.kr/)**
 
+### 2026 Gudi/Sinllim District Business Report
+For more detailed infrastructure and parking logistics, check out our [Notion Live Report](https://www.notion.so/2026-TOP-3-359b439160b3804b9f23f529931afe4d?source=copy_link).
+
 ---
 *본 가이드는 정보 제공을 목적으로 작성되었으며, 주기적으로 업데이트됩니다.*
